@@ -15,7 +15,8 @@ function openssl_connect {
 		parsercert 6 10
 		parsercert 11 15
 		parsercert 16 20 
-	}
+		rm tmp.cert
+		}
 
 function usage {
 	echo "usage: [-f file ] | [-h host] | [--help]"
