@@ -1,1 +1,1 @@
-# bash-scripts-certificate-chain-check
+# bash-script-certificate-chain-check
